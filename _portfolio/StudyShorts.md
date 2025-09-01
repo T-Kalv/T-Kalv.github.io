@@ -17,7 +17,7 @@ In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShor
     - Uses MySQL database that store data such as questions, options, modules and uses the Java Database Connectivity (JDBC) to fetch the necessary information for the Fronten
 
 ## App Demo:
-<img src="StudyScreen.gif" alt="Study Screen" width="400"/>
+<img src="_portfolio/StudyScreen.gif" alt="Study Screen" width="400"/>
 
 
 The StudyShorts App source code can be accessed via [GitHub](https://github.com/T-Kalv/StudyShorts)
