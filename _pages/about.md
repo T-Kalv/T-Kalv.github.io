@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🧑🏾‍💻 I'm currently an undergraduate CS + AI Student at UOL and aspiring Researcher/SWE.
+👨🏾‍💻 I'm currently an undergraduate CS + AI Student at UOL and aspiring Researcher/SWE.
 
 🔬 My research interests are in ML/DL, Quant, Space Technology & Robotics 
 
-🧑🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Quant, Developer, Programmer...
+👨🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Quant, Developer, Programmer...
 
 📚 I am also interested in assisting others on their path in the world of Computer Science And Academia.
 
