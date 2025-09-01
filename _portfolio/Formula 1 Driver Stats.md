@@ -24,7 +24,5 @@ In this full-stack project, I implemented a [Formula 1 Driver Stats website](htt
   - Display relevant information based on user query for each driver that matches with user query 
 
 
-
-
 The Formula 1 Driver Stats project source code can be accessed via [GitHub](https://github.com/T-Kalv/Formula-1-Driver-Stats)
 
