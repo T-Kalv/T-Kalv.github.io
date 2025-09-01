@@ -31,20 +31,21 @@ Feel free to have a read through the [Research Paper and the accompanying Juypte
 ## 💻 Projects
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;align-items:start;">
   <a href="https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Simple-MNIST-Digit-Classifier-Neural-Network&theme=dark" alt="MNIST Digit Classifier Neural Network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Simple-MNIST-Digit-Classifier-Neural-Network&theme=auto" alt="MNIST Digit Classifier Neural Network">
   </a>
   <a href="https://github.com/T-Kalv/StudyShorts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=StudyShorts&theme=dark" alt="StudyShorts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=StudyShorts&theme=auto" alt="StudyShorts">
   </a>
   <a href="https://github.com/T-Kalv/Tasp-Talia-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Tasp-Talia-&theme=dark" alt="TALIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Tasp-Talia-&theme=auto" alt="TALIA">
   </a>
   <a href="https://github.com/T-Kalv/Black-Scholes-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Black-Scholes-Model&theme=dark" alt="Black-Scholes Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Black-Scholes-Model&theme=auto" alt="Black-Scholes Model">
+  </a>
   <a href="https://github.com/mg643l/pulsar-avionics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mg643l&repo=pulsar-avionics&theme=dark" alt="PULSAR LIFTS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mg643l&repo=pulsar-avionics&theme=auto" alt="PULSAR LIFTS">
   </a>
     <a href="https://github.com/T-Kalv/AI-Python-Draughts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=AI-Python-Draughts&theme=dark" alt="AI-Python-Draughts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=AI-Python-Draughts&theme=auto" alt="AI-Python-Draughts">
   </a>
 
