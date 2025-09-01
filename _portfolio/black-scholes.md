@@ -14,5 +14,5 @@ In this Quant project, I implemented an [Interactive Black-Scholes Option Pricin
 - Frontend:
     - Uses Streamlit for the frontend user interactive web interface to visualise features such as heat-map visualisation and visualising option prices against different factors..
 
-This [Interactive Black-Scholes Option Pricing Model](https://black-scholes-option-model.streamlit.app/) source code can be accessed via [GitHub](https://github.com/T-Kalv/Black-Scholes-Model/tree/main)
+This [Interactive Black-Scholes Option Pricing Model's](https://black-scholes-option-model.streamlit.app/) source code can be accessed via [GitHub](https://github.com/T-Kalv/Black-Scholes-Model/tree/main)
 
