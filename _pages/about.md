@@ -12,7 +12,7 @@ redirect_from:
 
 🔬 My research interests are in ML/DL, Quant, Space Technology & Robotics 
 
-👨‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Quant, Developer, Programmer...
+🧑🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Quant, Developer, Programmer...
 
 📚 I am also interested in assisting others on their path in the world of Computer Science And Academia.
 
@@ -29,37 +29,23 @@ To accompany this work, I have a [GitHub Repository](https://github.com/T-Kalv/S
 Feel free to have a read through the [Research Paper and the accompanying Juypter Notebook](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main).
 
 ## 💻 Projects
-<div style="box-sizing:border-box;max-width:1200px;margin:0 auto;padding:16px;overflow:hidden;">
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;align-items:start;">
-    <a href="https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Simple-MNIST-Digit-Classifier-Neural-Network&theme=dark"
-           alt="MNIST Digit Classifier Neural Network"
-           style="width:100%;max-width:100%;height:220px;object-fit:cover;border-radius:8px;display:block;">
-    </a>
-    <a href="https://github.com/T-Kalv/StudyShorts" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=StudyShorts&theme=dark"
-           alt="StudyShorts"
-           style="width:100%;max-width:100%;height:220px;object-fit:cover;border-radius:8px;display:block;">
-    </a>
-    <a href="https://github.com/T-Kalv/Tasp-Talia-" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Tasp-Talia-&theme=dark"
-           alt="TALIA"
-           style="width:100%;max-width:100%;height:220px;object-fit:cover;border-radius:8px;display:block;">
-    </a>
-    <a href="https://github.com/T-Kalv/Black-Scholes-Model" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Black-Scholes-Model&theme=dark"
-           alt="Black-Scholes Model"
-           style="width:100%;max-width:100%;height:220px;object-fit:cover;border-radius:8px;display:block;">
-    </a>
-    <a href="https://github.com/mg643l/pulsar-avionics" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mg643l&repo=pulsar-avionics&theme=dark"
-           alt="PULSAR LIFTS"
-           style="width:100%;max-width:100%;height:220px;object-fit:cover;border-radius:8px;display:block;">
-    </a>
-    <a href="https://github.com/T-Kalv/AI-Python-Draughts" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=AI-Python-Draughts&theme=dark"
-           alt="AI-Python-Draughts"
-           style="width:100%;max-width:100%;height:220px;object-fit:cover;border-radius:8px;display:block;">
-    </a>
-  </div>
-</div>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;align-items:start;">
+  <a href="https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Simple-MNIST-Digit-Classifier-Neural-Network&theme=dark" alt="MNIST Digit Classifier Neural Network">
+  </a>
+  <a href="https://github.com/T-Kalv/StudyShorts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=StudyShorts&theme=dark" alt="StudyShorts">
+  </a>
+  <a href="https://github.com/T-Kalv/Tasp-Talia-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Tasp-Talia-&theme=dark" alt="TALIA">
+  </a>
+  <a href="https://github.com/T-Kalv/Black-Scholes-Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=Black-Scholes-Model&theme=dark" alt="Black-Scholes Model">
+  <a href="https://github.com/mg643l/pulsar-avionics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mg643l&repo=pulsar-avionics&theme=dark" alt="PULSAR LIFTS">
+  </a>
+    <a href="https://github.com/T-Kalv/AI-Python-Draughts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=AI-Python-Draughts&theme=dark" alt="AI-Python-Draughts">
+  </a>
+</div
+
