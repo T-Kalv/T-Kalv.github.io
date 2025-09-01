@@ -7,7 +7,7 @@ collection: portfolio
 
 In this full-stack project, I implemented a [Formula 1 Driver Stats website](https://github.com/T-Kalv/Formula-1-Driver-Stats) which is a full-stack Web Application that provides users with information about Formula drivers (2024 season) via a search interface. The backend uses Spring-Boot Java with a PostgreSQL database and the frontend is built with HTML/JS via a web interface. 
 
-![Formula 1 Driver Stats Home Page](Formula1StatsWebImage.png)
+![Formula 1 Driver Stats](Formula1StatsWebImage.png)
 
 ## Features:
 - Backend:
