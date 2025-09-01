@@ -18,7 +18,7 @@ redirect_from:
 
 # Selected Experience
 
-## 🧑🏾‍🔬 Professional Experience
+## 👨🏾‍🔬 Professional Experience
 Currently, I am working as a part-time **Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
 
 ## 🔬 Research
@@ -47,5 +47,4 @@ Feel free to have a read through the [Research Paper and the accompanying Juypte
     <a href="https://github.com/T-Kalv/AI-Python-Draughts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=AI-Python-Draughts&theme=dark" alt="AI-Python-Draughts">
   </a>
-</div
 
