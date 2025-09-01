@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏾‍💻 I'm currently an undergraduate CS + AI Student at UOL and aspiring Researcher/SWE.
+👨🏾‍💻 I'm currently an undergraduate CS + AI Student and aspiring Researcher/SWE.
 
 🔬 My research interests are in ML/DL, Quant, Space Technology & Robotics 
 
@@ -19,12 +19,13 @@ redirect_from:
 # Selected Experience
 
 ## 👨🏾‍🔬 Professional Experience
-Currently, I am working as a part-time **Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
+Kalvin is an undergraduate Computer Science with Aritificial Intelligence student attending UoL. Kalvin works as a Software Engineer at LASER, a student-led research group focused on research in Space-based Engineering, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a part-time **Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
+
 
 ## 🔬 Research
-I have experience with independent research. I have implemented a Simple MNIST Digit Classifier Neural Network made from scratch* in Python with only core libraries such as NumPy, Matplotlib, Pandas and tqdm. The purpose was to *implement a feed-foward neural network model/MLP (multilayer perceptron) that can recognise and classify numerical handwritten digits from the MNIST data as well as gaining a deeper understanding of the underlying core mathematics and algorithms such as forward propagation, backpropagation, ReLu (Rectified Linear unit) activation function, Softmax activation function...*
+Kalvin has experience with independent research. Recently, he has implemented a Simple MNIST Digit Classifier Neural Network made from scratch* in Python with only core libraries such as NumPy, Matplotlib, Pandas and tqdm. The purpose was to *implement a feed-foward neural network model/MLP (multilayer perceptron) that can recognise and classify numerical handwritten digits from the MNIST data as well as gaining a deeper understanding of the underlying core mathematics and algorithms such as forward propagation, backpropagation, ReLu (Rectified Linear unit) activation function, Softmax activation function...*
 
-To accompany this work, I have a [GitHub Repository](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main) that contains the [Juypter Notebook](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/SimpleMNISTDigitClassifier.ipynb) with accompanying code and results as well the corresponding [Research Paper](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/Research%20Paper/SimpleMNISTDigitClassifierNeuralNetworkPaper.pdf), communicating the Paper's theory and my results.
+To accompany this work, there is a [GitHub Repository](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main) that contains the [Juypter Notebook](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/SimpleMNISTDigitClassifier.ipynb) with accompanying code and results as well the corresponding [Research Paper](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/Research%20Paper/SimpleMNISTDigitClassifierNeuralNetworkPaper.pdf), communicating the Paper's theory and results.
 
 Feel free to have a read through the [Research Paper and the accompanying Juypter Notebook](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main).
 
