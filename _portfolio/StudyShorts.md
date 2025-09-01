@@ -5,7 +5,7 @@ excerpt: "StudyShorts is a full-stack Java-based Study Quiz Flashcard app that h
 collection: portfolio
 ---
 
-In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShorts) which is a full-stack Java-based Study Quiz Flashcard app that helps users to study whilst testing their knowledge, allowing users to create questions and study those questions engaging with those questions via short-form video content at the bottom of the screen similar to TikTok/YoutTube Shorts/Instagram Reels...
+In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShorts) which is a full-stack Java-based Study Quiz Flashcard app that helps users to study whilst testing their knowledge, allowing users to create questions and study those questions engaging with those questions via [short-form video content at the bottom of the screen](https://github.com/T-Kalv/StudyShorts/blob/main/StudyScreen.gif) similar to TikTok/YoutTube Shorts/Instagram Reels...
 
 <img width="1770" height="966" alt="image" src="https://github.com/user-attachments/assets/68f235c1-a6d1-4251-9d55-faeed38c7cad" />
 
@@ -16,8 +16,8 @@ In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShor
     - Uses Java to calculate current score/total score, correct answer verfication, quiz progression, inserting/fetching/deleting information from the MySQL database
     - Uses MySQL database that store data such as questions, options, modules and uses the Java Database Connectivity (JDBC) to fetch the necessary information for the Fronten
 
-## App Demo:
-<img src="_portfolio/StudyScreen.gif" alt="Study Screen" width="400"/>
+## App Study Demo:
+![Study Shorts App Study Demo Screen](StudyShortsStudyScreen.png)
 
 
 The StudyShorts App source code can be accessed via [GitHub](https://github.com/T-Kalv/StudyShorts)
