@@ -6,7 +6,7 @@ collection: portfolio
 
 In this full-stack project, I implemented [What's The Weather App](https://github.com/T-Kalv/What-s-The-Weather-) which is a full-stack Desktop App that provides users with the current weather in a certain city with other useful information/metrics such as the current weater condition, tempeature, windspeed, humdity using Weather Forecast API (Open Meteo) and the Swing Java framework...
 
-<img src="whats-the-weather.png" alt="screenshot" width="400"/>
+<img src="whats-the-weather.png" alt="What's The Weather App" width="400" height="500"/>
 
 ## Features:
 - Frontend:
