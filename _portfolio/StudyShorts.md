@@ -5,7 +5,7 @@ excerpt: "StudyShorts is a full-stack Java-based Study Quiz Flashcard app that h
 collection: portfolio
 ---
 
-In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShorts) which is a full-stack Java-based Study Quiz Flashcard app that helps users to study whilst testing their knowledge, allowing users to create questions and study those questions engaging with those questions via [short-form video content at the bottom of the screen](https://github.com/T-Kalv/StudyShorts/blob/main/StudyScreen.gif) similar to TikTok/YoutTube Shorts/Instagram Reels...
+In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShorts) which is a full-stack Java-based Study Quiz Flashcard Desktop App that helps users to study whilst testing their knowledge, allowing users to create questions and study those questions engaging with those questions via [short-form video content at the bottom of the screen](https://github.com/T-Kalv/StudyShorts/blob/main/StudyScreen.gif) similar to TikTok/YoutTube Shorts/Instagram Reels...
 
 <img width="1770" height="966" alt="image" src="https://github.com/user-attachments/assets/68f235c1-a6d1-4251-9d55-faeed38c7cad" />
 
