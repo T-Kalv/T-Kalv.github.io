@@ -1,5 +1,5 @@
 ---
-title: "TASP-TALIA
+title: "TASP-TALIA"
 excerpt: "TASP (Totally Auto Stock Pinger) - TALIA (Totally Artificial Language Intelligence Assistant)
 "
 collection: portfolio
