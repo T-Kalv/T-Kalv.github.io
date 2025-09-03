@@ -14,7 +14,7 @@ In this project, I implemented [StudyShorts](https://github.com/T-Kalv/StudyShor
     - Uses Java Swing framework for the frontend that is response for handling the user input such as clicking buttons, entering information, displaying questions/options/answers and showng scores as well as displaying the short-form video content
 - Backend:
     - Uses Java to calculate current score/total score, correct answer verfication, quiz progression, inserting/fetching/deleting information from the MySQL database
-    - Uses MySQL database that store data such as questions, options, modules and uses the Java Database Connectivity (JDBC) to fetch the necessary information for the Fronten
+    - Uses MySQL database that store data such as questions, options, modules and uses the Java Database Connectivity (JDBC) to fetch the necessary information for the Frontend
 
 ## App Study Demo:
 ![Study Shorts App Study Demo Screen](StudyShortsStudyScreen.png)
