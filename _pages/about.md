@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-👨🏾‍💻 I'm currently an undergraduate CS + AI Student and aspiring Researcher/SWE.
+👨🏾‍💻 I'm currently an **undergraduate CS + AI Student** and aspiring Researcher/SWE.
 
 🔬 My research interests are in ML/DL, Quant, Space Technology & Robotics 
 
 👨🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Quant, Developer, Programmer...
 
-📚 I am also interested in assisting others on their path in the world of Computer Science And Academia.
+📚 I am also interested in assisting others on their path in the world of Computer Science/Artificial Intelligence And Academia.
 
 # Selected Experience
 
 ## 👨🏾‍🔬 Professional Experience
-Kalvin is an undergraduate Computer Science with Aritificial Intelligence student attending UoL. Kalvin works as a Software Engineer at LASER, a student-led research group focused on research in Space-based Engineering, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a part-time **Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
+Kalvin is an **undergraduate Computer Science with Aritificial Intelligence student** attending UoL. Kalvin works as a **Software Engineer at LASER**, a student-led research group focused on research in Space-based Engineering, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a part-time Software Avionics Engineer at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
 
 
 ## 🔬 Research
-Kalvin has experience with independent research. Recently, he has implemented a Simple MNIST Digit Classifier Neural Network made from scratch* in Python with only core libraries such as NumPy, Matplotlib, Pandas and tqdm. The purpose was to *implement a feed-foward neural network model/MLP (multilayer perceptron) that can recognise and classify numerical handwritten digits from the MNIST data as well as gaining a deeper understanding of the underlying core mathematics and algorithms such as forward propagation, backpropagation, ReLu (Rectified Linear unit) activation function, Softmax activation function...*
+Kalvin has experience with independent research. Recently, he has implemented a **Simple MNIST Digit Classifier Neural Network made from scratch*** in Python with only core libraries such as NumPy, Matplotlib, Pandas and tqdm. The purpose was to *implement a feed-foward neural network model/MLP (multilayer perceptron) that can recognise and classify numerical handwritten digits from the MNIST data as well as gaining a deeper understanding of the underlying core mathematics and algorithms such as forward propagation, backpropagation, ReLu (Rectified Linear unit) activation function, Softmax activation function...*
 
 To accompany this work, there is a [GitHub Repository](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main) that contains the [Juypter Notebook](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/SimpleMNISTDigitClassifier.ipynb) with accompanying code and results as well the corresponding [Research Paper](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/Research%20Paper/SimpleMNISTDigitClassifierNeuralNetworkPaper.pdf), communicating the Paper's theory and results.
 
@@ -49,4 +49,3 @@ Feel free to have a read through the [Research Paper and the accompanying Juypte
     <a href="https://github.com/T-Kalv/AI-Python-Draughts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Kalv&repo=AI-Python-Draughts&theme=auto" alt="AI-Python-Draughts">
   </a>
-
