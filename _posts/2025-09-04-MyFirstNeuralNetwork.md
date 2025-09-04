@@ -1,7 +1,7 @@
 ---
 title: 'My First Neural Network'
 date: 04/09/2025
-permalink: /posts/MyFirstNeuralNetwork/
+permalink: /posts/2025/09/2025-09-04-MyFirstNeuralNetwork/
 tags:
   - Neural Networks
   - Aritifial Intelligence
