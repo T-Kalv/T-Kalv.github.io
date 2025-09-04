@@ -19,7 +19,7 @@ XOR (exclusive OR) is a binary logic gate operation that takes two binary inputs
 I chose XOR specifically as it's the simplest problem to solve for a Neural Network as a single-layer perceptron cannot solve for XOR because the data is not linearly separable. Neural Networks can solve non-linear separable problems by adding hidden layers between the input and output which allows them to learn complex, non-linear decision boundaries such as XOR.
 
 ### Neural Network:
-![Example Neural Network](SimpleNeuralNet.png)
+<img width="300" height="261" alt="SimpleNeuralNet" src="https://github.com/user-attachments/assets/12c1908a-7bdf-4368-93bf-fed71f3b583f" />
 
 The Neural network consits of 2 inputs, 3 neurons in the hidden layer which apply the non-linear transformation in this case the sigmoid activation function and in the output layer there is 1 neuron which gives one number between 0 and 1 which represent the predicted probability.
 
@@ -44,9 +44,6 @@ $$
 $$
 MSE = \frac{1}{n} \sum_{i=1}^{n} (y_{\text{pred}} - y_{\text{true}})^2
 $$
-
-### Results:
-After Training the Neural Network 10000 epochs with a rate of learing of 0.1, it was observed that it trained for 0.5556039810180664 seconds. This resulted in:
 
 ### Results:
 
