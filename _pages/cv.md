@@ -4,5 +4,5 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /Thiruwaran-Kalvin-CV
+  - files/Thiruwaran-Kalvin-CV.pdf
 ---
