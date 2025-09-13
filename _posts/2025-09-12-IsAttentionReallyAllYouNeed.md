@@ -94,7 +94,7 @@ For me, the key takeways were:
 
 ## Further Reading:
 - [Original paper: *Attention Is All You Need* (Vaswani et al., 2017)](https://arxiv.org/pdf/1706.03762)
-- [3Blue1Brown Video: *Transformers, the tech behind LLMs, Deep Learning Chapter 5*](https://youtu.be/wjZofJX0v4M?feature=shared)
-- [3Blue1Brown Video: *Attention in transformers, step-by-step, Deep Learning Chapter 6*](https://youtu.be/eMlx5fFNoYc?feature=shared)
-- [Caelb Writes Code Video: *Transformers Explained*](https://youtu.be/nZrZOI0oRuw?feature=shared)
+- [3Blue1Brown Video: *Transformers the tech behind llms*](https://youtu.be/wjZofJX0v4M?feature=shared)
+- [3Blue1Brown 2nd Video: *Attention in transformers step-by-step*](https://youtu.be/eMlx5fFNoYc?feature=shared)
+- [Caleb Writes Code Video: *Transformers Explained*](https://youtu.be/nZrZOI0oRuw?feature=shared)
 - [Wikipedia Article: *Attention Is All You Need*](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need)
