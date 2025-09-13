@@ -1,7 +1,7 @@
 ---
 title: 'Is Attention Really All You Need?'
-date: 04/09/2025
-permalink: /posts/2025/09/2025-09-12-IsAttentionReallyAllYouNeed/
+date: 13/09/2025
+permalink: /posts/2025/09/2025-09-13-IsAttentionReallyAllYouNeed/
 tags:
   - Transformers
   - Paper Summary
@@ -71,10 +71,10 @@ $$
 $$
 
 ### Decoder:
-The Decoder stack also composes of a stack of $N$ identical layers where it has the same two sub-layers as in each encoder layer except the Decoder has an additional third sub-layer where it peforms multihead attention over the encoder's output. In addition, the Decoder stack contains a masked multi-head self attention sub-layer that prevents positions from peaking at future tokens instead of the normal multi-head self-attention sub-layer found in the Encoder stack.
+The Decoder stack also composes of a stack of N identical layers where it has the same two sub-layers as in each encoder layer except the Decoder has an additional third sub-layer where it peforms multihead attention over the encoder's output. In addition, the Decoder stack contains a masked multi-head self attention sub-layer that prevents positions from peaking at future tokens instead of the normal multi-head self-attention sub-layer found in the Encoder stack.
 
 ## Tranformer Architecture:
-![Transform Architecture](Transformer.svg)
+![Transform Architecture](/_posts/Transformer.svg)
 
 *Figure 1. Transformer Architecture. Adapted from Vaswani et al. (2017).*
 
