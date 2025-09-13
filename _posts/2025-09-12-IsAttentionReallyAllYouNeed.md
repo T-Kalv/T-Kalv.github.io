@@ -73,8 +73,8 @@ $$
 ### Decoder:
 The Decoder stack also composes of a stack of N identical layers where it has the same two sub-layers as in each encoder layer except the Decoder has an additional third sub-layer where it peforms multihead attention over the encoder's output. In addition, the Decoder stack contains a masked multi-head self attention sub-layer that prevents positions from peaking at future tokens instead of the normal multi-head self-attention sub-layer found in the Encoder stack.
 
-## Tranformer Architecture:
-![Transform Architecture](/_posts/Transformer.svg)
+## Transformer Architecture:
+![Transform Architecture](/images/Transformer.svg)
 
 *Figure 1. Transformer Architecture. Adapted from Vaswani et al. (2017).*
 
@@ -94,7 +94,7 @@ For me, the key takeways were:
 
 ## Further Reading:
 - [Original paper: *Attention Is All You Need* (Vaswani et al., 2017)](https://arxiv.org/pdf/1706.03762)
-- [3Blue1Brown Video: *Transformers the tech behind llms*](https://youtu.be/wjZofJX0v4M?feature=shared)
-- [3Blue1Brown 2nd Video: *Attention in transformers step-by-step*](https://youtu.be/eMlx5fFNoYc?feature=shared)
+- [3Blue1Brown Video: *Transformers the tech behind llms* ](https://youtu.be/wjZofJX0v4M?feature=shared)
+- [3Blue1Brown 2nd Video: *Attention in transformers step-by-step* ](https://youtu.be/eMlx5fFNoYc?feature=shared)
 - [Caleb Writes Code Video: *Transformers Explained*](https://youtu.be/nZrZOI0oRuw?feature=shared)
 - [Wikipedia Article: *Attention Is All You Need*](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need)
