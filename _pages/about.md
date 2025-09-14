@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
 <div class="image-container" style="position: relative; display: inline-block; float: right; margin-left: 10px;">
-    <img src="QuadrangleUOL.jpeg" alt="Quadrangle, University of Liverpool" style="width: 400px;" />
+    <img src="https://t-kalv.github.io/images/QuadrangleUOL.jpeg" alt="Quadrangle, University of Liverpool" style="width: 400px;" />
     <span style="display: none; position: absolute; bottom: 10px; left: 10px; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 5px; border-radius: 5px;" class="image-credit">By Brit in Seoul - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=134645256" style="color: white;">link</a></span>
 </div>
 
@@ -28,7 +27,7 @@ redirect_from:
 # Selected Experience
 
 ## 👨🏾‍🔬 Professional Experience
-Kalvin is an **undergraduate Computer Science with Aritificial Intelligence student** attending **UoL**. Kalvin works as a **Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
+Kalvin is an **undergraduate Computer Science with Artificial Intelligence student** attending **UoL**. Kalvin works as a **Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
 
 
 ## 🔬 Research
