@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<div class="image-container" style="position: relative; display: inline-block; float: right; margin-left: 10px;">
-    <img src="images/QuadrangleUOL.jpeg" alt="Quadrangle, University of Liverpool" style="width: 400px;" />
-    <span style="display: none; position: absolute; bottom: 10px; left: 10px; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 5px; border-radius: 5px;" class="image-credit">By Brit in Seoul - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=134645256" style="color: white;">link</a></span>
-</div>
-
-<style>
-.image-container:hover .image-credit {
-    display: block; 
-}
-</style>
+<figure style="float: right; margin-left: 10px; text-align: center; width: 400px;">
+    <img src="https://t-kalv.github.io/images/QuadrangleUOL.jpeg" alt="Quadrangle, University of Liverpool" style="width: 100%;" />
+    <figcaption style="font-size: 10px; color: gray; text-align: center;">
+        <a href="https://commons.wikimedia.org/w/index.php?curid=134645256">By Brit in Seoul - Own work, CC BY-SA 4.0</a>
+    </figcaption>
+</figure>
 
 
 👨🏾‍💻 I'm currently an **undergraduate CS + AI Student** and aspiring Researcher/SWE.
