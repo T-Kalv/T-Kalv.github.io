@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+
+<div class="image-container" style="position: relative; display: inline-block; float: right; margin-left: 10px;">
+    <img src="QuadrangleUOL.jpeg" alt="Quadrangle, University of Liverpool" style="width: 400px;" />
+    <span style="display: none; position: absolute; bottom: 10px; left: 10px; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 5px; border-radius: 5px;" class="image-credit">By Brit in Seoul - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=134645256" style="color: white;">link</a></span>
+</div>
+
+
+
+
 👨🏾‍💻 I'm currently an **undergraduate CS + AI Student** and aspiring Researcher/SWE.
 
 🔬 My research interests are in ML/DL, Quant, Space Technology & Robotics 
@@ -19,11 +28,11 @@ redirect_from:
 # Selected Experience
 
 ## 👨🏾‍🔬 Professional Experience
-Kalvin is an **undergraduate Computer Science with Aritificial Intelligence student** attending UoL. Kalvin works as a **Software Engineer at LASER**, a student-led research group focused on research in Space-based Engineering, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a part-time Software Avionics Engineer at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
+Kalvin is an **undergraduate Computer Science with Aritificial Intelligence student** attending **UoL**. Kalvin works as a **Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
 
 
 ## 🔬 Research
-Kalvin has experience with independent research. Recently, he has implemented a **Simple MNIST Digit Classifier Neural Network made from scratch*** in Python with only core libraries such as NumPy, Matplotlib, Pandas and tqdm. The purpose was to *implement a feed-foward neural network model/MLP (multilayer perceptron) that can recognise and classify numerical handwritten digits from the MNIST data as well as gaining a deeper understanding of the underlying core mathematics and algorithms such as forward propagation, backpropagation, ReLu (Rectified Linear unit) activation function, Softmax activation function...*
+Kalvin has experience with independent research. Recently, he has implemented a **Simple MNIST Digit Classifier Neural Network made from scratch*** in Python with only core libraries such as NumPy, Matplotlib, Pandas and tqdm. The purpose was to *implement a feed-foward neural network model/MLP (multilayer perceptron) that can recognise and classify numerical handwritten digits from the MNIST data as well as gaining a deeper understanding of the underlying core mathematics and algorithms such as forward propagation, backpropagation, ReLu (Rectified Linear unit) activation function, Softmax activation function...* Kalvin also has a **blog** where he **publishes** his **research findings, summarises research papers, shares insights and tutorials** on various topics related to **Computer Science & Artificial Intelligence.**
 
 To accompany this work, there is a [GitHub Repository](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/tree/main) that contains the [Juypter Notebook](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/SimpleMNISTDigitClassifier.ipynb) with accompanying code and results as well the corresponding [Research Paper](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network/blob/main/Research%20Paper/SimpleMNISTDigitClassifierNeuralNetworkPaper.pdf), communicating the Paper's theory and results.
 
