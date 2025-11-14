@@ -20,7 +20,7 @@ redirect_from:
 
 🔬 My research interests are in ML/DL, Data Science, Robotics, Computer Vision, Quantitative Research & Finance
 
-👨🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Machine Learning/Software Engineer, Quant, Developer, Programmer...
+👨🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Machine Learning/Software Engineer, Quantitative Developer, Data Scientist...
 
 📚 I am also interested in assisting others on their path in the world of Computer Science/Artificial Intelligence And Academia.
 
