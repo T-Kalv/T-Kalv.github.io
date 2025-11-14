@@ -18,16 +18,16 @@ redirect_from:
 
 👨🏾‍💻 I'm currently an **undergraduate CS + AI Student** and aspiring Researcher/SWE.
 
-🔬 My research interests are in ML/DL, Quant, Space Technology & Robotics 
+🔬 My research interests are in ML/DL, Data Science, Robotics, Computer Vision, Quantitative Research & Finance
 
-👨🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Software Engineer, Quant, Developer, Programmer...
+👨🏾‍🎓 When I graduate, I would like to pursure a pathway either as a Researcher, Machine Learning/Software Engineer, Quant, Developer, Programmer...
 
 📚 I am also interested in assisting others on their path in the world of Computer Science/Artificial Intelligence And Academia.
 
 # Selected Experience
 
 ## 👨🏾‍🔬 Professional Experience
-Kalvin is an **undergraduate Computer Science with Artificial Intelligence student** attending **UoL**. Kalvin works as a **Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) currently working mainly on *LIFTS (LASER's Integrated Flight Tracking System) on the Electronics/Programming Subsystems Team as part of LASER's PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research) Unity Rise Rocket Team 24/25.* 
+Kalvin is an **undergraduate Computer Science with Artificial Intelligence student** attending **UoL** in the **School of Computer Science and Informatics**. Kalvin works as a **Machine Learning Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. He is currently working on the *Rideshare Experiment* and *Ground Station Electronics* in the *Electronics/Programming Subsystems Team* for *PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research)* where he is the joint *Project Lead* for *UoL LASER'S Unity Rise Rocket Team 25/26*. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) working mainly on *LIFTS (LASER's Integrated Flight Tracking System)* as part of *LASER's Unity Rise Rocket Team 24/25.* 
 
 
 ## 🔬 Research
