@@ -28,7 +28,7 @@ redirect_from:
 
 ## 👨🏾‍🔬 Professional Experience
 
-<figure style="float: left; margin-left: 10px; text-align: center; width: 400px;">
+<figure style="float: left; margin-right: 20px; margin-bottom: 15px; text-align: center; width: 400px;">
     <img src="https://t-kalv.github.io/images/EEE-UoL.jpg" alt="Electrical Engineering & Electronics Building, University of Liverpool" style="width: 100%;" />
     <figcaption style="font-size: 10px; color: gray; text-align: center;">
         <a href="https://commons.wikimedia.org/wiki/File:Electrical_Engineering_%26_Electronics_Building,_University_of_Liverpool_2.jpg">By Phil Nash from Wikimedia Commons CC BY-SA 4.0</a>
