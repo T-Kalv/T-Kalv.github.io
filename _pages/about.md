@@ -27,7 +27,15 @@ redirect_from:
 # Selected Experience
 
 ## 👨🏾‍🔬 Professional Experience
-Kalvin is an **undergraduate Computer Science with Artificial Intelligence student** attending **UoL** in the **School of Computer Science and Informatics**. Kalvin works as a **Machine Learning Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. He is currently working on the *Rideshare Experiment* and *Ground Station Electronics* in the *Electronics/Programming Subsystems Team* for *PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research)* where he is the joint *Project Lead* for *UoL LASER'S Unity Rise Rocket Team 25/26*. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) working mainly on *LIFTS (LASER's Integrated Flight Tracking System)* as part of *LASER's Unity Rise Rocket Team 24/25.* 
+
+<figure style="float: right; margin-left: 10px; text-align: center; width: 400px;">
+    <img src="https://t-kalv.github.io/images/Electrical_Engineering_&_Electronics_Building,_University_of_Liverpool_2.jpeg" alt="Electrical Engineering & Electronics Building, University of Liverpool" style="width: 100%;" />
+    <figcaption style="font-size: 10px; color: gray; text-align: center;">
+        <a href="https://commons.wikimedia.org/wiki/File:Electrical_Engineering_%26_Electronics_Building,_University_of_Liverpool_2.jpg">By Phil Nash from Wikimedia Commons CC BY-SA 4.0</a>
+    </figcaption>
+</figure>
+
+Kalvin is an **undergraduate Computer Science with Artificial Intelligence student** attending **UoL** in the **School of Computer Science and Informatics**. Kalvin works as a **Machine Learning Software Engineer at LASER**, a student-led **research group focused on research in Space-based Engineering**, supported by the Electronics and Electrical Engineering department at UoL. He is currently working on the *Rideshare Experiment* and *Ground Station Electronics* in the *Electronics/Programming Subsystems Team* for *PULSAR (Propulsion Unit for LASER's Spacecraft and Aerospace Research)* where he is the joint *Project Lead* for *UoL LASER'S Unity Rise PL-26 Rocket Team 25/26*. His latest efforts include working as a **part-time Software Avionics Engineer** at LASER (Liverpool Association for Space Engineering research) working mainly on *LIFTS (LASER's Integrated Flight Tracking System)* as part of *LASER's Unity Rise PULSAR Rocket Team 24/25.* 
 
 
 ## 🔬 Research
