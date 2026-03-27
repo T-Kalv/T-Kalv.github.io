@@ -1,0 +1,82 @@
+---
+title: 'Space-based AI Data Centres'
+date: 27/03/2026
+permalink: /posts/2026/01/2026-03-27-SpaceDataCentres/
+tags:
+  - Space AI Data Centres
+  - Space Technology
+  - Data Centres
+  - GPU
+  - Energy
+  - Compute
+  - Artificial Intelligence
+---
+
+After taking a deep dive into the computational infrastucture demands of modern Artificial Intelligence, I realised that while our models are scaling exponentially, the physical infrastructure required to run them is hitting a massive bottleneck. We tend to trust and assume that these so called **"Hyperscale"** data centers to process everything from every day user LLM query prompts to Autonomous Vehicle Networks assuming that our current power grids infrastructure can just endlessly accomodates them out of the box.
+
+However, from my research into the hardware side of AI, there seems to be much more of a different truth here where running these enormous Compute Clusters here on Earth is becoming physically and economically unsustainable in the long-term especially as we continue the scale. In this post, I'll share and summarise my findings on the viability of Space-based AI Data Centres currently.
+
+## Background
+### Why Space-based AI Data Centres?
+To a Human, the current modern cloud infrastructure seems like an invisible, infinite storage compute space regardless of where we access it. However, Data Centres operate by consuming massives amount of energy/electricity and generating immense amount of thermal energy (heat) as result of the high-levels of computation. By calculating the physical footprints and energy costs of these models, we can determine mathematically that the Earth's resouces are a finite boundary. Moving these Data Centres to space creates what is classed as an **Oribital Data Centre**. The goal of these Space-based Orbital Data Centres is to locate an environment that maximises the hardwares' overall system uptime where the reliance on the Earth's power grid infrastructure and water cooling is completely eliminated. This ensures that AIs can run on an infinite*, stable energy source (the Sun).
+
+## Core Ideas
+### The Energy Equation (Solar in Space):
+The core idea of an Oribital Space-based Data Centre is to power the compute units by keeping these satellites in an orbit that is **sun-synchronous**. THis allows for a constant and stable supply of energy from the Sun. Here on Earth, Solar Panels are cheap (lower than **$1 per watt** without taking into account the cost of installation and setup).
+
+Based on recent developments, the base price of space-rated solar panels is around *$11.21 per watt**.
+
+### Power Consumption (NVIDIA HGX H100) Example:
+A single NVIDIA HGX H100 unit contains 8x H100 GPUs in a single topology. While NVIDIA's specification sheet lists the power consumptions at **5,600 watts** (5.6kW) and then we approximate the power draw-factoring in the CPU, RAM, SSDs and other necessary components and electronics which results in a total approximation of around **10,000 watts**.
+
+The hardware build price for solar power enery generation is computed as follows:
+$$
+C_{power} = P_{total} \times \text{Cost}_{solar}
+$$
+
+where:
+* $P_{total}$: the realistic power consumption (**10,000 watts**)
+* $\text{Cost}_{solar}$: the price per watt for space-rated panels (**$11.21**)
+* $C_{power}$: The resulting **$112,100** required just to build the solar array for one unit
+
+As you can see the hardware build price does seem to be high, but this is nothing in comparison to the launch cost.
+
+### Launch Cost (SpaceX Falcon 9 Rocket):
+Launch costs are an iterative mathematical problem, where every component adds additional weight and every kilogram adds thousands of dollars extra. Most space solar panel manufacturers converge at an efficiency of approximately **30 watts per kilogram**. Then we need to take into account the weight of the NVIDIA HGX H100 unit which weighs around **24 kg** plus the necessary chassis, cold shields, and other space-specific hardware which results in a total mass of approximately  **100 kg**.
+
+The total payload weight required to sustain the compute module is computed as:
+
+$$
+W_{total} = \left(\frac{P_{total}}{E_{solar}}\right) + W_{hardware}
+$$
+
+where:
+* $E_{solar}$: the energy-to-weight ratio of the panels (**30 W/kg**)
+* $W_{hardware}$: the weight of the compute unit and protective chassis (**124 kg**)
+* $W_{total}$: the total projected payload weight. 
+
+Calculating this out, the solar panels alone weigh **333 kg** and when add it to  the **124 kg** compute hardware it results in a massive payload
+
+### Cooling in Space vs on Earth:
+Here on Earth, Data Centres rely on biliions of litres of water and ariflow in order to transfer the heat away from the Servers. However, in Space, a vacuum has no air or water meaning Space-based AI Data Centres must learn to defend against overheating by relying on **Thermal Radiation**. For example, dissipating the heat generated by a 10,000 watt HGX unit requires a radiator roughly the suquare rootage of a medium to large home, which results in even more restrictive mass to the payload.
+
+## Findings & Results
+If we were launching a HGX H100 unit into orbit using SpaceX's Falcon 9 (which costs **$2,750 per kilogram**), a clear progression in total costs was observed:
+* **Solar Panel Launch Cost** = 333 kg * $2,750 results in a cost of exactly **$915,750**
+* **Compute Module Launch Cost** = 124 kg * $2,750 results in a cost of exactly **$341,000**
+* **Total Orbital Deployment** = Total launch cost of approximately **$1.3 million** per module.
+
+## My Takeaways:
+After researching the viability of Space-based AI Data Centres, it highlighted a fundamental concern in the furutre of AI Data Centres:
+* **Earthly Constraints $\neq$ Infinite Scaling** - We cannot keep building larger models without severely impacting our local power grids and water supplies.
+* **The Power of Launch Economics** - The current hardware and solar technology is viable. Driving down the $2,750/kg launch cost by a factor of 10 is essential to making orbital data centers a reality.
+* **Infrastructure is an Arms Race** - As AI models get smarter and even larger, the facilities housing them must evolve beyond simple Eath-based warehouses. We cannot trust our current power grids blindly without considering space-based solutions as an alternative.
+
+## Further Reading & References
+- **Earth Solar Costs:** [How the cost of solar panels has fallen (Stacker)](https://stacker.com/stories/environment/how-cost-solar-panels-has-fallen)
+- **Space-Rated Solar Breakthroughs:** [Starpath slashes space solar costs by 90% (TechBuzz)](https://www.techbuzz.ai/articles/starpath-slashes-space-solar-costs-90-with-mass-production-push)
+- **NVIDIA HGX H100 Specification** [NVIDIA H100 GPU Datasheet](https://resources.nvidia.com/en-us-hopper-architecture/nvidia-tensor-core-gpu-datasheet)
+- **Spacecraft Power Systems:** [NASA Small Spacecraft Technology - Power Subsystems](https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems/#3.3)
+- **Launch Economics:** [Cost of Space Launches to Low Earth Orbit (Our World in Data)](https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit)
+- **Video Breakdown & Math Basis:** [Space Data Center Explained (YouTube)](https://www.youtube.com/watch?v=mHKGP5TAxyQ)
+

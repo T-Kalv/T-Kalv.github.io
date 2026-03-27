@@ -25,7 +25,6 @@ redirect_from:
 📚 I am also interested in assisting others on their path in the world of Computer Science/Artificial Intelligence And Academia.
 
 # Selected Experience
-
 ## 👨🏾‍🔬 Professional Experience
 
 <figure style="float: left; margin-right: 20px; margin-bottom: 15px; text-align: center; width: 400px;">
