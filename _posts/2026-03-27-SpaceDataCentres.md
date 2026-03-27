@@ -1,7 +1,7 @@
 ---
 title: 'Space-based AI Data Centres'
 date: 27/03/2026
-permalink: /posts/2026/01/2026-03-27-SpaceDataCentres/
+permalink: /posts/2026/03/2026-03-27-SpaceDataCentres/
 tags:
   - Space AI Data Centres
   - Space Technology
