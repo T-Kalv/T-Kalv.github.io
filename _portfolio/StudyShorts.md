@@ -1,5 +1,6 @@
 ---
 title: "StudyShorts"
+date: 30/08/2025
 excerpt: "StudyShorts is a full-stack Java-based Study Quiz Flashcard app that helps user to study whilst testing their knowledge, allowing users to create questions and study those questions engaging with those questions via short-form video content at the bottom of the screen similar to TikTok/YoutTube Shorts/Instagram Reels...
 "
 collection: portfolio

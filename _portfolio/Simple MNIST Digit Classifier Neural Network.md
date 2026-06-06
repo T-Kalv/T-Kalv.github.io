@@ -1,5 +1,6 @@
 ---
 title: "Simple MNIST Digit Classifier Neural Network"
+date: 25/09/2025
 excerpt: "A Simple MNIST Digit Classifier Neural Network that recognises hand-written numerical digits from the MNIST Digit Recogniser Dataset made from scratch* in Python with 7960 trainable parameters..."
 collection: portfolio
 ---

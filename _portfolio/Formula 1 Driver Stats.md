@@ -1,5 +1,6 @@
 ---
 title: "Formula 1 Driver Stats"
+date: 30/10/2025
 excerpt: "A full-stack Web Application that provides users with information about Formula drivers (2024 season) via a search interface. The backend uses Spring-Boot Java with a PostgreSQL database and the frontend is built with HTML/JS via a web interface. 
 "
 collection: portfolio

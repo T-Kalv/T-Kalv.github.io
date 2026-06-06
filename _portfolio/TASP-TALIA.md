@@ -1,5 +1,6 @@
 ---
 title: "TASP-TALIA"
+date: 26/02/2024
 excerpt: "TASP (Totally Auto Stock Pinger) - TALIA (Totally Artificial Language Intelligence Assistant)
 "
 collection: portfolio

@@ -1,5 +1,6 @@
 ---
 title: "Interactive Black-Scholes Option Pricing Model"
+date: 19/06/2025
 excerpt: "Implementation of the Black-Scholes Model for European option call/put pricing with features including calculating option prices based on market parameters, estimating implied volatility, live data using Yahoo Finance API, Greek Options, heat-map visualisation and visualising option prices against different factors..."
 collection: portfolio
 ---

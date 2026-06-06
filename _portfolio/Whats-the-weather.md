@@ -1,5 +1,6 @@
 ---
 title: "What's The Weather"
+date: 02/09/2025
 excerpt: "A Basic Weather App that shows the user the current weather in a certain city with other useful information/metrics using Weather Forecast API (Open Meteo) and the Swing Java framework..."
 collection: portfolio
 ---
