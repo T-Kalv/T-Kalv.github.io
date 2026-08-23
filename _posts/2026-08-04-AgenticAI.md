@@ -25,11 +25,11 @@ If Physical AI is about giving algorithms a body to interact with physical space
 AI Agents are often reffered to a LLM agents where the core language model acts as the "brain" behind the operation rather than just generating text. An AI Agent is a software system capable of autonomously reasoning, setting sub-goals and performing tasks on behalf of a user.
 
 ### How do AI Agents work?
-AI agents operate using a continuous framwork known as **ReAct (Reasoning and Acting)**. It was first introduced by researchers in order to bridge the gap between thiking and doing. A ReAct agent iteratively goes through a loop where:
-1. **Thought:** The agent analyises what the current situation actually is and then identifies what the next action or information it needs next.
-2. **Action:** The agent then executes a specific funtion. For example, querying a database or running a Python script.
+AI agents operate using a continuous framework known as **ReAct (Reasoning and Acting)**. It was first introduced by researchers in order to bridge the gap between thinking and doing. A ReAct agent iteratively goes through a loop where:
+1. **Thought:** The agent analyses what the current situation actually is and then identifies what the next action or information it needs next.
+2. **Action:** The agent then executes a specific function. For example, querying a database or running a Python script.
 3. **Observation:** The agent then ingests the result of that previous action.
-4. **Iteration/Reflection:** The *Thought, Action, Observation* cybele repeats until the AI agent determines whether it has satisified the original user request/prompt.
+4. **Iteration/Reflection:** The *Thought, Action, Observation* cycle repeats until the AI agent determines whether it has satisfied the original user request/prompt.
 
 ## Core Ideas
 ### The Mathematical Foundation of AI Agents
@@ -42,7 +42,7 @@ However, an Agentic AI doesn't solve the problem in a single forward pass. It in
 * $\mathcal{P}$: The state transition probability resulting from executing action $a_t$.
 * $\mathcal{R}$: The reward or goal verification function.
 
-Rather than prediciting a word, the agentic policy $\pi$ selects an optimal action $a_t \in \mathcal{A}$ based on a trajectory history $h_t$:
+Rather than predicting a word, the agentic policy $\pi$ selects an optimal action $a_t \in \mathcal{A}$ based on a trajectory history $h_t$:
 $$a_t \sim \pi(a_t \mid h_t, L)$$
 
 where $L$ is the overarching objective and $h_t = (s_0, a_0, s_1, a_1, \dots, s_t)$ represents the continuous observation-action feedback loop. The agent maintains context across this trajectory where it learns from its failed actions and adjusts its subsequent thoughts.
@@ -115,7 +115,7 @@ The shift from the isolated conversational chat LLMs to autonomous agentic pipel
 ## My Takeaways:
 After analysing the architectural shift towards Agentic AI a few points stood out to me:
 - **Structural Parallelism with Physical AI:** The algorithmic loop that drives the digital software agent attempting to fix a bug is mathematically equivalent to a robotic arm adjusting its gripper force. They both rely heavily on closed-loop feedback, environment state observation and iterative error recovery.
-- **Tool Access is a Force Multiplier:** Model intelligence is only as useful as its tool access. An agent equipped with access to a terminal, file system and external APIs will consistently outperform a slightly smarter foundational model that is restricted purely to a text -basedinterface.
+- **Tool Access is a Force Multiplier:** Model intelligence is only as useful as its tool access. An agent equipped with access to a terminal, file system and external APIs will consistently outperform a slightly smarter foundational model that is restricted purely to a text-based interface.
 - **The Evolution of the Developer:** The role of the software developer is shifting more and more thanks to AI. We are moving away from writing individual syntax blocks to orchestrating systems—designing the state machines, tool protocols and evaluation metrics that govern autonomous multi-agent networks.
 
 ## Further Reading & References
