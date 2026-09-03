@@ -119,7 +119,6 @@ After analysing the architectural shift towards Agentic AI a few points stood ou
 - **The Evolution of the Developer:** The role of the software developer is shifting more and more thanks to AI. We are moving away from writing individual syntax blocks to orchestrating systems—designing the state machines, tool protocols and evaluation metrics that govern autonomous multi-agent networks.
 
 ## Further Reading & References
-## Further Reading & References
 - **AI Agents Detailed:** [IBM: What are AI Agents?](https://www.ibm.com/think/topics/ai-agents)
 - **ReAct Framework Paper:** [ReAct: Synergizing Reasoning and Acting in Language Models (arXiv)](https://arxiv.org/abs/2210.03629)
 - **Self-Reflection Benchmarks:** [Reflexion: Language Agents with Verbal Reinforcement Learning (NeurIPS)](https://openreview.net/forum?id=vAElhFcKW6)
