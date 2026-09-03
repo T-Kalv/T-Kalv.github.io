@@ -101,7 +101,7 @@ This is important especially for contact-rich manipulation where here for the sc
 In the lab, automating sample scraping combines several challenges that make it useful for studying robot learning.
 
 <div style="text-align: center;">
-<img src="Scraping_Example.png"
+<img src="{{ '/images/Scraping_Example.png' | relative_url }}"
      alt="Autonomous robotic sample scraping setup"
      style="width: 55%;">
 <p><strong>Figure 1:</strong> Autonomous robotic scraping setup used for the sample scraping task. <em>Source: Pizzuto et al. (2024), "Accelerating Laboratory Automation Through Robot Skill Learning For Sample Scraping".</em></p>
