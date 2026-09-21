@@ -49,22 +49,23 @@ To accompany this work, [Kalvin's GitHub repository](https://github.com/T-Kalv/)
 
 
 ## 💻 Featured Projects
+
 | 🧠 AI Neural Scientist | 🚀 VEGA Rideshare Experiment |
 | :--- | :--- |
 | An interactive full-stack neural network autopsy and lesion tool built with PyTorch, Next.js, React & TypeScript as part of OpenAI Build Week 2026. | Edge-computed multispectral computer vision research project payload for the PL-26 Unity Rise Launch Vehicle, programmed with OpenCV and Python. |
 | [**View Repository ➔**](https://github.com/T-Kalv/AI-Neural-Scientist) | [**View Repository ➔**](https://github.com/UnityRiseUol/pl26-rideshare-experiment) |
-| <br>**📡 PLOTS Ground Station** | <br>**📊 Postflight Analysis Tracker** |
+| **📡 PLOTS Ground Station** | **📊 Postflight Analysis Tracker** |
 | Interactive, real-time full-stack ground station designed to receive, log and visualise live RF flight data from the PL-26 LIFTS avionics system. Hardware designed in KiCad; software programmed in C++ and Python/PySide6. | Telemetry analysis and data parsing suite for aerospace payloads, programmed in Python and PySide6. |
 | [**View Repository ➔**](https://github.com/UnityRiseUol/pl26-groundstation) | [**View Repository ➔**](https://github.com/UnityRiseUol/pl26-postflight-analysis) |
-| <br>**🛰️ PULSAR Avionics** | <br>**🤖 TASP-TALIA AI Assistant** |
+| **🛰️ PULSAR Avionics** | **🤖 TASP-TALIA AI Assistant** |
 | LIFTSv1 (LASER’s Integrated Flight Tracking System) onboard avionics and flight computer software developed for the Unity Rise PULSAR Launch Vehicle. | An interactive virtual AI assistant designed to process natural language queries via voice and text and execute digital tasks natively. |
 | [**View Repository ➔**](https://github.com/mg643l/pulsar-avionics) | [**View Repository ➔**](https://github.com/T-Kalv/Tasp-Talia-) |
-| <br>**🌀 Spinning Objects** | <br>**📚 StudyShorts** |
+| **🌀 Spinning Objects** | **📚 StudyShorts** |
 | A zero-dependency, cross-platform 3D rendering engine built entirely from scratch in C++ to compute and visualise rotating geometries. | Interactive full-stack study optimisation tool and flashcard application built with Java, Swing and MySQL. |
 | [**View Repository ➔**](https://github.com/T-Kalv/spinning-objects) | [**View Repository ➔**](https://github.com/T-Kalv/StudyShorts) |
-| <br>**📈 Black-Scholes Model** | <br>**1️⃣ MNIST Digit Classifier** |
+| **📈 Black-Scholes Model** | **1️⃣ MNIST Digit Classifier** |
 | Interactive quantitative finance model for algorithmic option pricing built with Streamlit and Python. | Framework-free feed-forward MNIST neural network built from scratch in Python. |
 | [**View Repository ➔**](https://github.com/T-Kalv/Black-Scholes-Model) | [**View Repository ➔**](https://github.com/T-Kalv/Simple-MNIST-Digit-Classifier-Neural-Network) |
-| <br>**🏎️ Formula 1 Driver Stats** | <br>**🌦️ What's The Weather** |
+| **🏎️ Formula 1 Driver Stats** | **🌦️ What's The Weather** |
 | A full-stack web application providing 2024 Formula 1 driver statistics via a search interface, built with Java Spring Boot, HTML/JS, and PostgreSQL. | A desktop weather app that shows the current weather in a certain city with other useful information/metrics using Weather Forecast API (Open Meteo) and the Swing Java framework. |
 | [**View Repository ➔**](https://github.com/T-Kalv/Formula-1-Driver-Stats) | [**View Repository ➔**](https://github.com/T-Kalv/Whats-The-Weather) |
